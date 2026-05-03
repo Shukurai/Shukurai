@@ -54,6 +54,7 @@ const Look1ns = {
 | Project | Stack | Demo |
 |---|---|---|
 | 🎬 IMDB Explorer | React, TypeScript, TMDB API | [shukudb.vercel.app](https://shukudb.vercel.app) |
+| ✅ Todo App | React, JavaScript | [todo-self-beta-17.vercel.app](https://todo-self-beta-17.vercel.app) |
  
 ---
 

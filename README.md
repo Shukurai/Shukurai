@@ -48,6 +48,14 @@ const Look1ns = {
 </div>
 
 ---
+ 
+### 🎯 Projects
+ 
+| Project | Stack | Demo |
+|---|---|---|
+| 🎬 IMDB Explorer | React, TypeScript, TMDB API | [shukudb.vercel.app](https://shukudb.vercel.app) |
+ 
+---
 
 ### 🚀 Currently Working On
 

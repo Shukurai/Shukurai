@@ -50,12 +50,12 @@ const Look1ns = {
 ---
  
 ### 🎯 Projects
- 
+
 | Project | Stack | Demo |
 |---|---|---|
 | 🎬 IMDB Explorer | React, TypeScript, TMDB API | [shukudb.vercel.app](https://shukudb.vercel.app) |
 | ✅ Todo App | React, JavaScript | [todo-self-beta-17.vercel.app](https://todo-self-beta-17.vercel.app) |
- 
+| 🏦 Bank DB | React, TypeScript, Node.js, Express, Prisma, PostgreSQL | [bank-k092n7beu-shukurais-projects.vercel.app](https://bank-k092n7beu-shukurais-projects.vercel.app) |
 ---
 
 ### 🚀 Currently Working On

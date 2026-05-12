@@ -55,6 +55,7 @@ const Look1ns = {
 | 🎬 IMDB Explorer | React, TypeScript, TMDB API | [shukudb.vercel.app](https://shukudb.vercel.app) |
 | ✅ Todo App | React, JavaScript | [todo-self-beta-17.vercel.app](https://todo-self-beta-17.vercel.app) |
 | 🏦 Bank DB | React, TypeScript, Node.js, Express, Prisma, PostgreSQL | [bank-db.vercel.app](https://bank-db.vercel.app) |
+| 🎨 Themes Design | React, Vite, React Router, CSS Variables — UI gallery с переключением 4 дизайн-тем | [themes-design.vercel.app](https://themes-design.vercel.app/) |
 ---
 
 ### 🚀 Currently Working On

@@ -16,7 +16,7 @@
 const Look1ns = {
   focus:      "Full-Stack Web Development",
   background: ["Desktop Apps", "WinForms", "WPF", "ImGUI"],
-  database:   "MySQL",
+  database:   "MySQL", "PostgureSQL"
   currently:  "Diving deep into modern web development 🌊",
   motto:      "From pixels to databases — I build it all",
 };

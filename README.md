@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 ```ts
-const Look1ns = {
+const Shukurai = {
   focus:      "Full-Stack Web Development",
   background: ["Desktop Apps", "WinForms", "WPF", "ImGUI"],
   database:   "MySQL", "PostgureSQL"

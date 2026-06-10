@@ -50,14 +50,21 @@ const Shukurai = {
  
 ### 🎯 Projects
 
+#### 🚀 Main Project
+| Project | Stack | Demo |
+|---|---|---|
+| 📋 JobTracker | Next.js, TypeScript, Tailwind, Supabase, LemonSqueezy | [jobtracker-three-delta.vercel.app](https://jobtracker-three-delta.vercel.app/) |
+
+> Full-stack micro-SaaS — Kanban job application tracker with auth, payments, analytics and Pro tier
+
+#### Other Projects
 | Project | Stack | Demo |
 |---|---|---|
 | 🎬 IMDB Explorer | React, TypeScript, TMDB API | [shukudb.vercel.app](https://shukudb.vercel.app) |
 | ✅ Todo App | React, JavaScript | [todo-self-beta-17.vercel.app](https://todo-self-beta-17.vercel.app) |
 | 🏦 Bank DB | React, TypeScript, Node.js, Express, Prisma, PostgreSQL | [bank-db.vercel.app](https://bank-db.vercel.app) |
-| 🎨 Themes Design | React, Vite, React Router, CSS Variables — UI gallery | [themes-design.vercel.app](https://themes-design.vercel.app/) |
-| 🫧 Popit Clicker | React, Vite, Custom Hooks, Floating UI, Web Audio API, localStorage, CSS Variables — incremental game with theme switching | [clicker-lime.vercel.app](https://clicker-lime.vercel.app/) |
----
+| 🎨 Themes Design | React, Vite, React Router, CSS Variables | [themes-design.vercel.app](https://themes-design.vercel.app/) |
+| 🫧 Popit Clicker | React, Vite, Custom Hooks, Web Audio API | [clicker-lime.vercel.app](https://clicker-lime.vercel.app/) |
 
 ### 🚀 Currently Working On
 

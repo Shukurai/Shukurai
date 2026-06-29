@@ -16,7 +16,7 @@
 const Shukurai = {
   focus:      "Full-Stack Web Development",
   background: ["Desktop Apps", "WinForms", "WPF", "ImGUI"],
-  database:   "MySQL", "PostgureSQL"
+  database:   ["PostgreSQL", "Supabase"],
   currently:  "Diving deep into modern web development 🌊",
   motto:      "From pixels to databases — I build it all",
 };
@@ -27,19 +27,22 @@ const Shukurai = {
 ### 🛠 Tech Stack
 <div align="center">
 
-**Web & Frontend**
+<p><b>Web & Frontend</b></p>
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Backend & Database**
+<p><b>Backend & Database</b></p>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Desktop & Systems**
+<p><b>Desktop & Systems</b></p>
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

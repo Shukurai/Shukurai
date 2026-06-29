@@ -51,7 +51,7 @@ const Shukurai = {
 ### 🎯 Projects
 
 #### 🚀 Main Project
-| Project | Stack | Demo |
+| Project | Stack | Website |
 |---|---|---|
 | 📋 JobTracker | Next.js, TypeScript, Tailwind, Supabase, LemonSqueezy | [jobtracker](https://tryjobtracker.com/) |
 

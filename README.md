@@ -53,7 +53,7 @@ const Shukurai = {
 #### 🚀 Main Project
 | Project | Stack | Demo |
 |---|---|---|
-| 📋 JobTracker | Next.js, TypeScript, Tailwind, Supabase, LemonSqueezy | [jobtracker-three-delta.vercel.app](https://jobtracker-three-delta.vercel.app/) |
+| 📋 JobTracker | Next.js, TypeScript, Tailwind, Supabase, LemonSqueezy | [jobtracker](https://tryjobtracker.com/) |
 
 > Full-stack micro-SaaS — Kanban job application tracker with auth, payments, analytics and Pro tier
 

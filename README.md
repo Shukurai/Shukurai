@@ -47,7 +47,7 @@ const Shukurai = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-</div>
+
 
 ---
  
@@ -77,7 +77,7 @@ const Shukurai = {
 
 ---
 
-<div align="center">
+
 
 *"Desktop gave me the foundation. Web gives me the reach."*
 

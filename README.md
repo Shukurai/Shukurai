@@ -1,23 +1,18 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shukurai+%F0%9F%91%8B;Full-Stack+%26+Desktop+Developer;Node.js+%7C+React+%7C+C%2B%2B+%7C+C%23;Building+things+that+work" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shukurai+%F0%9F%91%8B;Full-Stack+%26+Desktop+Developer;Node.js+%7C+React+%7C+Python+%7C+C%2B%2B;Building+things+that+work" alt="Typing SVG" />
 <br/>
-
 [![Profile views](https://komarev.com/ghpvc/?username=Look1ns&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/Look1ns)
-
 </div>
 
 ---
 
 ### 🧠 About Me
-
 ```ts
 const Shukurai = {
-  focus:      "Full-Stack Web Development",
+  focus:      ["Full-Stack Web Development", "Data Analytics & Engineering"],
   background: ["Desktop Apps", "WinForms", "WPF", "ImGUI"],
-  database:   ["PostgreSQL", "Supabase"],
-  currently:  "Diving deep into modern web development 🌊",
+  database:   ["PostgreSQL", "Supabase", "SQLite"],
+  currently:  "Building full-stack products, now going deep on Python & data 📊",
   motto:      "From pixels to databases — I build it all",
 };
 ```
@@ -25,6 +20,7 @@ const Shukurai = {
 ---
 
 ### 🛠 Tech Stack
+
 <div align="center">
 
 <p><b>Web & Frontend</b></p>
@@ -34,6 +30,14 @@ const Shukurai = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<p><b>Data & Analytics</b></p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <p><b>Backend & Database</b></p>
 
@@ -47,20 +51,30 @@ const Shukurai = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
+</div>
 
 ---
- 
+
 ### 🎯 Projects
 
 #### 🚀 Main Project
+
 | Project | Stack | Website |
 |---|---|---|
 | 📋 JobTracker | Next.js, TypeScript, Tailwind, Supabase, LemonSqueezy | [jobtracker](https://tryjobtracker.com/) |
 
 > Full-stack micro-SaaS — Kanban job application tracker with auth, payments, analytics and Pro tier
 
+#### 📊 Data Analytics
+
+| Project | Stack | Repo |
+|---|---|---|
+| 🛒 Online Retail Analysis | Python, pandas, NumPy, matplotlib, SQLite, SQL | [online-retail-analysis](https://github.com/Shukurai/online-retail-analysis) |
+
+> End-to-end analysis of real e-commerce transaction data — cleaning, EDA, visualization, and a SQL/SQLite layer with cross-verified results
+
 #### Other Projects
+
 | Project | Stack | Demo |
 |---|---|---|
 | 🎬 IMDB Explorer | React, TypeScript, TMDB API | [shukudb.vercel.app](https://shukudb.vercel.app) |
@@ -71,14 +85,13 @@ const Shukurai = {
 
 ### 🚀 Currently Working On
 
-> 🌐 Actively learning web development — building full-stack projects from scratch  
-> 🖥️ Strong background in desktop: WinForms, WPF, ImGUI  
-> 🔄 Bringing systems-level thinking into the web world
+> 📊 Learning Python for data — pandas, SQL, and building analytics projects from real datasets
+> 🌐 Shipping full-stack products end-to-end — Next.js, Supabase, payments
+> 🖥️ Strong background in desktop: WinForms, WPF, ImGUI
+> 🔄 Bringing systems-level thinking into both web and data
 
 ---
 
-
-
-*"Desktop gave me the foundation. Web gives me the reach."*
+*"Desktop gave me the foundation. Web gave me the reach. Data tells me what to build next."*
 
 </div>
